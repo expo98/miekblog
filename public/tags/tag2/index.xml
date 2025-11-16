@@ -11,10 +11,10 @@
     <atom:link href="localhost/tags/tag2/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>blogtitle</title>
-      <link>localhost/posts/boas-teste-inicial/</link>
+      <link>localhost/posts/nova-cena/</link>
       <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>localhost/posts/boas-teste-inicial/</guid>
-      <description></description>
+      <guid>localhost/posts/nova-cena/</guid>
+      <description>&lt;p&gt;sadasdas dnqawiud hAOSI D&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
