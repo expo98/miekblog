@@ -7,7 +7,7 @@ cd "$SCRIPT_DIR"
 
 # Set variables for Obsidian to Hugo copy
 sourcePath="/home/expo98/Documents/mikezira/posts"
-destinationPath="/home/expo98/Documents/miguelpereiraDev/content/posts"
+destinationPath="/home/expo98/Documents/miguelpereiraDev/content/"
 
 # Set GitHub Repo
 myrepo="git@github.com:expo98/miekblog.git"
