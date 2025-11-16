@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Wed, 06 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Nov 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="localhost/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Primeiro Post</title>
+      <link>localhost/posts/posts/untitled/</link>
+      <pubDate>Sun, 16 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>localhost/posts/posts/untitled/</guid>
+      <description>&lt;p&gt;Hello to all of you, I&amp;rsquo;m currently testing if this shit is working with the megascript&lt;/p&gt;&#xA;&lt;p&gt;Heres a pciture of this shit&lt;/p&gt;&#xA;&lt;p&gt;![[Pasted image 20251116154841.png]]&#xA;Lets see&amp;hellip;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>blogtitle</title>
       <link>localhost/posts/boas-teste-inicial/</link>

@@ -10,7 +10,7 @@ sourcePath="/home/expo98/Documents/mikezira/posts"
 destinationPath="/home/expo98/Documents/miguelpereiraDev/content/posts"
 
 # Set GitHub Repo
-myrepo="reponame"
+myrepo="git@github.com:expo98/miekblog.git"
 
 # Check for required commands
 for cmd in git rsync python3 hugo; do
@@ -91,23 +91,5 @@ if ! git push origin main; then
     exit 1
 fi
 
-# Step 8: Push the public folder to the hostinger branch using subtree split and force push
-echo "Deploying to GitHub Hostinger..."
-if git branch --list | grep -q 'hostinger-deploy'; then
-    git branch -D hostinger-deploy
-fi
-
-if ! git subtree split --prefix public -b hostinger-deploy; then
-    echo "Subtree split failed."
-    exit 1
-fi
-
-if ! git push origin hostinger-deploy:hostinger --force; then
-    echo "Failed to push to hostinger branch."
-    git branch -D hostinger-deploy
-    exit 1
-fi
-
-git branch -D hostinger-deploy
 
 echo "All done! Site synced, processed, committed, built, and deployed."
