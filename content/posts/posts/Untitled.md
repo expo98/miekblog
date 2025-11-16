@@ -8,5 +8,5 @@ Hello to all of you, I'm currently testing if this shit is working with the mega
 
 Heres a pciture of this shit 
 
-![[Pasted image 20251116154841.png]]
+!![Image Description](/images/Pasted%20image%2020251116154841.png)
 Lets see...
