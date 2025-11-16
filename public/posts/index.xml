@@ -16,10 +16,10 @@
             
             <guid>localhost/posts/posts/untitled/</guid>
             <description>&lt;p&gt;Hello to all of you, I&amp;rsquo;m currently testing if this shit is working with the megascript
-![[Pasted image 20251116155907.png]]&lt;/p&gt;
+!&lt;img src=&#34;localhost/images/Pasted%20image%2020251116155907.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;
 &lt;p&gt;oh parvo de merda isto agora da?&lt;/p&gt;</description>
             <content type="html"><![CDATA[<p>Hello to all of you, I&rsquo;m currently testing if this shit is working with the megascript
-![[Pasted image 20251116155907.png]]</p>
+!<img src="/images/Pasted%20image%2020251116155907.png" alt="Image Description"></p>
 <p>oh parvo de merda isto agora da?</p>
 ]]></content>
         </item>
