@@ -5,6 +5,6 @@ draft: false
 tags:
 ---
 Hello to all of you, I'm currently testing if this shit is working with the megascript
-!![Image Description](/images/Pasted%20image%2020251116155907.png)
+![Image Description](/images/Pasted%20image%2020251116155907.png)
 
 oh parvo de merda isto agora da?
