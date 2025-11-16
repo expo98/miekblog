@@ -6,5 +6,6 @@ tags:
 ---
 Hello to all of you, I'm currently testing if this shit is working with the megascript
 
-!![Image Description](/images/Pasted%20image%2020251116155643.png)
+![[Pasted image 20251116155742.png]]
+
 ya mano isto e top
